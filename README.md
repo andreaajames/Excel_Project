@@ -49,6 +49,8 @@ This Excel project contains two independent datasets — **Global COVID-19 Stati
 | VaccineDoses | Vaccine doses administered |
 | Population | Country population |
 
+<img width="952" height="584" alt="Screenshot 2025-10-05 194400" src="https://github.com/user-attachments/assets/9ca4fbc7-1c33-41e2-a09f-e9d72b3d0256" />
+
 ---
 
 ## 🛒 Dataset 2: RealMart Sales
@@ -79,6 +81,9 @@ This Excel project contains two independent datasets — **Global COVID-19 Stati
 | Date | Transaction date |
 | Time / Hour | Transaction time |
 
+<img width="849" height="656" alt="Screenshot 2025-10-05 194321" src="https://github.com/user-attachments/assets/1ad44b78-ffef-4089-81e7-d85ecacc7dd4" />
+
+
 ### Product Lines
 - Sports and Travel
 - Fashion Accessories
@@ -86,6 +91,7 @@ This Excel project contains two independent datasets — **Global COVID-19 Stati
 - Home and Lifestyle
 - Health and Beauty
 - Electronic Accessories
+
 
 ---
 
